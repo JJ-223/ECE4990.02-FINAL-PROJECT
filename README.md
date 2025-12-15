@@ -8,8 +8,7 @@ Features:
 - Spatio-temporal heatmap visualization of traffic predictions and errors.
 - Evaluation using MAE, MAPE, and RMSE for multiple forecast horizons.
 
-References
-
+References:
 - STL-GRU: Kishor Bhaumik. [GitHub Repository](https://github.com/Kishor-Bhaumik/STLGRU/tree/main)
 - MegaCRN: Deep Kashiwa. https://github.com/deepkashiwa20/MegaCRN/tree/main
 
