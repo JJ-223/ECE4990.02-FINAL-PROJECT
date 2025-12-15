@@ -31,6 +31,5 @@ If you use this repository for your research, please cite the original papers:
   year={2022}
 }
 
-License
-
+License:
 This repository is released under the MIT License. Original STL-GRU and MegaCRN implementations retain their respective licenses.
