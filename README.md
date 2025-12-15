@@ -9,7 +9,7 @@ Features:
 - Evaluation using MAE, MAPE, and RMSE for multiple forecast horizons.
 
 References:
-- STL-GRU: Kishor Bhaumik. [GitHub Repository](https://github.com/Kishor-Bhaumik/STLGRU/tree/main)
+- STL-GRU: Kishor Bhaumik. https://github.com/Kishor-Bhaumik/STLGRU/tree/main
 - MegaCRN: Deep Kashiwa. https://github.com/deepkashiwa20/MegaCRN/tree/main
 (Not able to upload the dataset PEMSBAY and EXPYTKY datasets from MegaCRN as they were too large, if needed, please refer to the MegaCRN repo referenced)
 
