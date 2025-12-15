@@ -11,6 +11,7 @@ Features:
 References:
 - STL-GRU: Kishor Bhaumik. [GitHub Repository](https://github.com/Kishor-Bhaumik/STLGRU/tree/main)
 - MegaCRN: Deep Kashiwa. https://github.com/deepkashiwa20/MegaCRN/tree/main
+(Not able to upload the dataset PEMSBAY and EXPYTKY datasets from MegaCRN as they were too large, if needed, please refer to the MegaCRN repo referenced)
 
 These implementations were adapted and extended for the weighted ensemble described in this project.
 
